@@ -1,0 +1,11 @@
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.csprojAssemblyReference.cache
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.csproj.CoreCompileInputs.cache
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.AssemblyInfoInputs.cache
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.AssemblyInfo.cs
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\bin\Debug\netcoreapp2.1\categoryStudient.deps.json
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\bin\Debug\netcoreapp2.1\categoryStudient.runtimeconfig.json
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\bin\Debug\netcoreapp2.1\categoryStudient.runtimeconfig.dev.json
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\bin\Debug\netcoreapp2.1\categoryStudient.dll
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\bin\Debug\netcoreapp2.1\categoryStudient.pdb
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.dll
+c:\users\raule\Source\repos\categoryStudient\categoryStudient\obj\Debug\netcoreapp2.1\categoryStudient.pdb
